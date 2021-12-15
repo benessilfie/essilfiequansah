@@ -6,7 +6,7 @@ Hi there, ny name is Essilfie Benjamin, a Software and Mobile Engineer passionat
 
 📚 : I love building products and solving problems first with design and code
 
-💻 : I've worked with most Frameworks and Languages - Flutter, Dart, Javascript, React, Node, Express, and still learning :)
+💻 : So far I've worked with these Frameworks and Languages - Flutter, Dart, Javascript, React, Node, Express, and still learning :)
 
 🏔 : I'm currently a software engineer focusing on building for mobile
 
