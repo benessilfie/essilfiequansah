@@ -4,7 +4,7 @@ Hi there, my name is Essilfie, a Software Engineer passionate about Design, Syst
 
 🎓 : Right now I'm studying Software Engineering at AltSchool Africa
 
-📚 : I love building products and solving problems first with design and code
+📚 : I love building products and solving problems with design and code
 
 💻 : So far I've worked with these Frameworks and Languages - Flutter, Dart, Javascript, React, Node, Express, and still learning :)
 
