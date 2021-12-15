@@ -1,12 +1,12 @@
-# Essilfie Quansah :blush:
+# Essilfie Ofori-Quansah, Benjamin :smile:
 
 Hi there, ny name is Essilfie Benjamin, a Software and Mobile Engineer passionate about Design, System Architecture and Public Speaking.
 
 🎓 : Right now I'm studying Software Engineering at AltSchool Africa
 
-📚:I love building products and solving problems first with design and code
+📚 : I love building products and solving problems first with design and code
 
-:computer: I've worked with most Frameworks and Languages - Flutter, Dart, Javascript, React, Node, Express, and still learning :)
+💻 : I've worked with most Frameworks and Languages - Flutter, Dart, Javascript, React, Node, Express, and still learning :)
 
 🏔 : I'm currently a software engineer focusing on building for mobile
 
