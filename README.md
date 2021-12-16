@@ -6,7 +6,7 @@ Hi there, my name is Essilfie, a Software Engineer passionate about Design, Syst
 
 📚 : I love building products and solving problems with design and code
 
-💻 : So far I've worked with these Frameworks and Languages - Flutter, Dart, Javascript, React, Node, Express, and still learning :)
+💻 : So far I'm learning and working with these Frameworks and Languages - Flutter, Dart, Javascript, React, Node, Express, and more :)
 
 🏔 : I'm currently focusing on building for mobile
 
