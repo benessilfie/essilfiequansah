@@ -1,4 +1,4 @@
-# Essilfie Ofori-Quansah, Benjamin :smile:
+# Ofori-Quansah, Essilfie Benjamin :smile:
 
 Hi there, my name is Essilfie (es-sil-fie), a Software Engineer passionate about Design, System Architecture and Public Speaking.
 
