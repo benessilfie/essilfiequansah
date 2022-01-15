@@ -2,7 +2,7 @@
 
 Hi there, my name is Essilfie (es-sil-fie), a Software Engineer interested in Entrepreneuship, System Architecture and Public Speaking.
 
-🎓 : Right now I'm studying Software Engineering at AltSchool Africa
+🎓 : Right now I'm studying CS50
 
 📚 : I'm passionate about design and working on open source projects
 
