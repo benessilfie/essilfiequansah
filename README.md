@@ -4,7 +4,7 @@ Hi there, my name is Essilfie (es-sil-fie), a Software Engineer interested in En
 
 🎓 : Right now I'm studying Software Engineering at AltSchool Africa
 
-📚 : I'm passionate design and working on openn source projects
+📚 : I'm passionate about design and working on open source projects
 
 💻 : So far I'm learning and working with these Languages - Javascript, Typescript, Python, Nodejs and Dart :)
 
