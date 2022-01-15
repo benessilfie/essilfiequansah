@@ -6,7 +6,7 @@ Hi there, my name is Essilfie (es-sil-fie), a software developer interested in e
 
 📚 : I'm passionate about design and working on open source projects
 
-💻 : So far I'm learning and working with these Languages - Javascript, Typescript, Python, Nodejs and Dart :)
+💻 : So far I'm learning and working with these Languages - Javascript, Python, Nodejs and Dart :)
 
 🏔 : I'm currently focusing on building for web
 
