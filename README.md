@@ -1,10 +1,10 @@
 # Ofori-Quansah, Essilfie Benjamin :smile:
 
-Hi there, my name is Essilfie (es-sil-fie), a Software Engineer passionate about Design, System Architecture and Public Speaking.
+Hi there, my name is Essilfie (es-sil-fie), a Software Engineer interested in Entrepreneuship, System Architecture and Public Speaking.
 
 🎓 : Right now I'm studying Software Engineering at AltSchool Africa
 
-📚 : I love building products and solving problems with design and code
+📚 : I'm passionate design and working on openn source projects
 
 💻 : So far I'm learning and working with these Languages - Javascript, Typescript, Python, Nodejs and Dart :)
 
