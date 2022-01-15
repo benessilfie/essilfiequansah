@@ -6,9 +6,9 @@ Hi there, my name is Essilfie (es-sil-fie), a Software Engineer passionate about
 
 📚 : I love building products and solving problems with design and code
 
-💻 : So far I'm learning and working with these Frameworks and Languages - Flutter, Dart, Javascript, React, Node, Express, and more :)
+💻 : So far I'm learning and working with these Languages - Javascript, Typescript, Python, Nodejs and Dart :)
 
-🏔 : I'm currently focusing on building for mobile
+🏔 : I'm currently focusing on building for web
 
 
 ## Reach me here
@@ -23,7 +23,7 @@ Hi there, my name is Essilfie (es-sil-fie), a Software Engineer passionate about
 </a>
 
 
-## Do you want to discuss Volunteer task or remote job?
+## Do you want to discuss a Volunteer task or remote job?
 * Mail: [bquansah007@gmail.com](mailto:bquansah007@gmail.com)
 
 
