@@ -2,7 +2,7 @@
 
 Hi there, my name is Essilfie, a software developer interested in entrepreneuship, system architecture and public speaking.
 
-🎓 : Right now I'm studying CS50
+🎓 : Right now I'm studying Software Engineering
 
 📚 : I'm passionate about design and working on open source projects
 
