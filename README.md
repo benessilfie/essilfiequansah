@@ -2,7 +2,7 @@
 
 Hi there, my name is Essilfie, a software developer interested in entrepreneuship, product management and public speaking.
 
-🎓 : C I'm studying Software Engineering
+🎓 :  I'm studying Software Engineering
 
 📚 : I'm passionate about design and working on open source projects
 
