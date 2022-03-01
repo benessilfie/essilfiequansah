@@ -15,10 +15,10 @@ Hi there, my name is Essilfie, a software developer interested in entrepreneushi
 <a href="https://twitter.com/essilfiequansah" target="_blank">
   <img src="./assets/twitter.svg" alt="My Twitter Profile" height="35" width="35">
 </a>
-<a href="https://www.linkedin.com/in/essilfiequansah/" target="_blank">
-  <img src="./assets/linkedin.svg" alt="My LinkedIn Profile" height="35" width="35">
+ <! ---  <a href="https://www.linkedin.com/in/essilfiequansah/" target="_blank">
+  <img src="./assets/linkedin.svg" alt="My LinkedIn Profile" height="35" width="35"> --- !>
 </a>
-<a href="https://facebook.com/" target="_blank">
+ <! ---  <a href="https://facebook.com/" target="_blank">
   <img src="./assets/facebook.svg" alt="My Facebook Profile" height="35" width="35">
 </a>
 
