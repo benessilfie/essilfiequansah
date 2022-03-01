@@ -18,9 +18,9 @@ Hi there, my name is Essilfie, a software developer interested in entrepreneushi
 <!--- <a href="https://www.linkedin.com/in/essilfiequansah/" target="_blank">
   <img src="./assets/linkedin.svg" alt="My LinkedIn Profile" height="35" width="35"> ---!>
 </a>
- <!---  <a href="https://facebook.com/" target="_blank">
+ <!--- <a href="https://facebook.com/" target="_blank">
   <img src="./assets/facebook.svg" alt="My Facebook Profile" height="35" width="35">
-</a>
+</a> ---!>
 
 
 ## Do you want to discuss a Volunteer task or remote job?
