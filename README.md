@@ -6,7 +6,7 @@ Hi there, my name is Essilfie, a software developer interested in entrepreneushi
 
 📚 : I'm passionate about design and working on open source projects
 
-💻 : I want to learn and work with these Languages - Javascript and Python :)
+💻 : I want to learn and work with these Languages - Javascript and Python a
 
 🏔 : I'm currently focusing on building for web
 
