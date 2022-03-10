@@ -1,4 +1,4 @@
-# Essilfie :smile:
+# Ofori-Quansah, Essilfie Benjamin :smile:
 
 Hi there, my name is Essilfie, a software developer interested in entrepreneuship, product management and public speaking.
 
