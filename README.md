@@ -10,8 +10,8 @@ Other than Tech, I'm passionate about Cooking (just everything about food :smile
 
 ```json
 {
-    "language": ["javascript", "python", //"go"],
-    "frontend": ["scss", // "Tailwind", "react", "next"]
+    "language": ["javascript", "python"] //"go"
+    "frontend": ["scss"] // "Tailwind", "react", "next"
     // "backend": ["go", "node", "flask", "FastAPI", "firebase"],
     // "database": ["postgres", "mysql", "mongodb", "redis"]
 }
@@ -27,5 +27,12 @@ Other than Tech, I'm passionate about Cooking (just everything about food :smile
 -   ⚡ **My Personality Type:** [ENFJ-A](https://www.16personalities.com/enfj-personality) :sunglasses:
 
 <!-- -   👯 **Looking to collaborate on:** Projects focused on Assitive Technologies -->
+
+<!-- {
+    "language": ["javascript", "python", //"go"],
+    "frontend": ["scss", // "Tailwind", "react", "next"]
+    // "backend": ["go", "node", "flask", "FastAPI", "firebase"],
+    // "database": ["postgres", "mysql", "mongodb", "redis"]
+} -->
 
 ## Take care :wave:
