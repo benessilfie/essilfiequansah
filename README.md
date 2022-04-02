@@ -4,16 +4,16 @@
 
 I'm an aspiring Software Engineer and Technical Product Manager. I'm currently pursuing a Backend major in Software Engineering. I'm intrested in systems architecture, contributing to open source projects and fintech.
 
-Other than Tech, I'm passionate about Cooking (just everything about food :smile:). Also, design, entrepreneuship, and mental health issues.
+Other than Tech, I'm passionate about Cooking (just everything food really :smile:). Also, design, entrepreneuship, and mental health issues.
 
 ### Tech Stack
 
 ```json
 {
-    "language": ["javascript", "python"] ~~"go"~~
-    "frontend": ["scss"] // "Tailwind", "react", "next"
-    // "backend": ["go", "node", "flask", "FastAPI", "firebase"],
-    // "database": ["postgres", "mysql", "mongodb", "redis"]
+    "language": ["javascript", "python", "Dart"]
+    "frontend": ["React", "Flutter"]
+    "backend": ["..."]
+    "database": ["..."]
 }
 ```
 
@@ -29,10 +29,10 @@ Other than Tech, I'm passionate about Cooking (just everything about food :smile
 <!-- -   👯 **Looking to collaborate on:** Projects focused on Assitive Technologies -->
 
 <!-- {
-    "language": ["javascript", "python", //"go"],
-    "frontend": ["scss", // "Tailwind", "react", "next"]
-    // "backend": ["go", "node", "flask", "FastAPI", "firebase"],
-    // "database": ["postgres", "mysql", "mongodb", "redis"]
+    "language": ["javascript", "python", "go"],
+    "frontend": ["scss", "Tailwind", "react", "next"]
+    "backend": ["go", "node", "flask", "FastAPI", "firebase"],
+    "database": ["postgres", "mysql", "mongodb", "redis"]
 } -->
 
 ## Take care :wave:
