@@ -10,8 +10,8 @@ Other than Tech, I'm passionate about cooking, design, entrepreneuship, and ment
 
 ```json
 {
-    "language": ["javascript", "python", "Dart"]
-    "frontend": ["SCSS", "Flutter"]
+    "language": ["javascript", "python", "dart"]
+    "frontend": ["scss", "flutter"]
     "backend": ["..."]
     "database": ["..."]
 }
