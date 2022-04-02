@@ -10,7 +10,7 @@ Other than Tech, I'm passionate about Cooking (just everything about food :smile
 
 ```json
 {
-    "language": ["javascript", "python"] //"go"
+    "language": ["javascript", "python"] ~~"go"~~
     "frontend": ["scss"] // "Tailwind", "react", "next"
     // "backend": ["go", "node", "flask", "FastAPI", "firebase"],
     // "database": ["postgres", "mysql", "mongodb", "redis"]
