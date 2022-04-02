@@ -4,7 +4,7 @@
 
 My name is Essilfie. I'm an aspiring Software Engineer & Technical Product Manager. Currently pursuing a Backend major in Software Engineering at AltSchool Africa. I'm intrested in Fintech and projects on assitive technology.
 
-Other than Tech, I'm passionate about Cooking (just everything food really :smile:). Also, design, entrepreneuship, and mental health issues.
+Other than Tech, I'm passionate about cooking, design, entrepreneuship, and mental health issues.
 
 ### Tech Stack
 
