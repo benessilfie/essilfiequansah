@@ -35,4 +35,4 @@ Other than Tech, I'm passionate about Cooking (just everything food really :smil
     "database": ["postgres", "mysql", "mongodb", "redis"]
 } -->
 
-## Take care :wave:
+## :wave:
