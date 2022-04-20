@@ -22,10 +22,11 @@ Other than Tech, I'm passionate about cooking, design, entrepreneuship, and ment
 -   🌱 **Currently learning:** JavaScript
 -   🧪 **Experimenting with:** Flutter
 -   📚 **Currently reading:** Start with Why _Simon Sinek_, Eloquent JavaScript _Marjin Haverbeke_
--   💬 **Ask me anything about:** The MCU, DC Comics, Afro Music, Greek Mythology
+-   💬 **Ask me anything about:** Greek Mythology
+-   👯 **Looking to volunteer on:** Projects focused on Assitive Technologies
 -   ⚡ **My Personality Type:** [ENFJ-A](https://www.16personalities.com/enfj-personality) :sunglasses:
 
-<!-- -   👯 **Looking to collaborate on:** Projects focused on Assitive Technologies -->
+<!-- -    -->
 <!-- -   🤔 **Looking for help with:** Systems Design & Micro-frontend Architecture. -->
 
 <!-- {
