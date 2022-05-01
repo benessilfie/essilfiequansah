@@ -10,30 +10,27 @@ Other than Tech, I'm passionate about cooking, design, entrepreneuship, and ment
 
 ```json
 {
-    "language": ["javascript", "dart"]
-    "frontend": ["scss", "flutter"]
-    "backend": ["..."]
-    "database": ["..."]
+    "Language": ["C", "Javascript"]
 }
 ```
 
 <!-- - 🔭 **Currently working on:** ... -->
 
 -   🌱 **Currently learning:** JavaScript
--   🧪 **Experimenting with:** Flutter
+<!-- -   🧪 **Experimenting with:** Flutter -->
 -   📚 **Currently reading:** Start with Why _Simon Sinek_, Eloquent JavaScript _Marjin Haverbeke_
 -   👯 **Looking to volunteer on:** Projects focused on Assitive Technologies
 -   💬 **Ask me anything about:** Greek Mythology
 -   ⚡ **My Personality Type:** [ENFJ-A](https://www.16personalities.com/enfj-personality) :sunglasses:
 
 <!-- -    -->
-<!-- -   🤔 **Looking for help with:** Systems Design & Micro-frontend Architecture. -->
+<!-- -   🤔 **Looking for help with:** dotNET Microservices. -->
 
 <!-- {
-    "language": ["javascript", "python", "go"],
-    "frontend": ["scss", "Tailwind", "react", "next"]
-    "backend": ["go", "node", "flask", "FastAPI", "firebase"],
-    "database": ["postgres", "mysql", "mongodb", "redis"]
+    "Language": ["Javascript", "Python", "C#"],
+    "Frontend": ["React", "Typescript"]
+    "Backend": ["Node.js", "Django", "dotNET", "FastAPI"],
+    "Database": ["PostgresSQL", "MongoDB"]
 } -->
 
 ## :wave:
