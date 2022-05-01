@@ -17,13 +17,12 @@ Other than Tech, I'm passionate about cooking, design, entrepreneuship, and ment
 <!-- - 🔭 **Currently working on:** ... -->
 
 -   🌱 **Currently learning:** JavaScript
-<!-- -   🧪 **Experimenting with:** Flutter -->
 -   📚 **Currently reading:** Start with Why _Simon Sinek_, Eloquent JavaScript _Marjin Haverbeke_
 -   👯 **Looking to volunteer on:** Projects focused on Assitive Technologies
 -   💬 **Ask me anything about:** Greek Mythology
 -   ⚡ **My Personality Type:** [ENFJ-A](https://www.16personalities.com/enfj-personality) :sunglasses:
 
-<!-- -    -->
+<!-- -   🧪 **Experimenting with:** Flutter  -->
 <!-- -   🤔 **Looking for help with:** dotNET Microservices. -->
 
 <!-- {
