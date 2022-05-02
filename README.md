@@ -14,7 +14,7 @@ My name is Essilfie. I'm a Software Engineering Student currently pursuing a bac
 -   👯 **Looking to volunteer on:** Projects focused on Assitive Technologies
 -   💬 **Ask me anything about:** Greek Mythology
 -   ⚡ **My Personality Type:** [ENFJ-A](https://www.16personalities.com/enfj-personality) :sunglasses:
- --> -->
+ --> 
 
 <!-- -   🌱 **Currently learning:** JavaScript -->
 <!-- -   📚 **Currently reading:** Start with Why _Simon Sinek_, Eloquent JavaScript _Marjin Haverbeke_ -->
