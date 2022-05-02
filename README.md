@@ -10,18 +10,21 @@ Other than Tech, I'm passionate about cooking, design, entrepreneuship, and ment
 
 ```json
 {
-    "Language": ["C", "Javascript"]
+    "Language": ["C"]
 }
 ```
 
 <!-- - 🔭 **Currently working on:** ... -->
 
--   🌱 **Currently learning:** JavaScript
--   📚 **Currently reading:** Start with Why _Simon Sinek_, Eloquent JavaScript _Marjin Haverbeke_
+-   🌱 **Currently learning:** Python
+-   📚 **Currently reading:** Start with Why _Simon Sinek_
 -   👯 **Looking to volunteer on:** Projects focused on Assitive Technologies
 -   💬 **Ask me anything about:** Greek Mythology
 -   ⚡ **My Personality Type:** [ENFJ-A](https://www.16personalities.com/enfj-personality) :sunglasses:
 
+
+<!-- -   🌱 **Currently learning:** JavaScript -->
+<!-- -   📚 **Currently reading:** Start with Why _Simon Sinek_, Eloquent JavaScript _Marjin Haverbeke_ -->
 <!-- -   🧪 **Experimenting with:** Flutter  -->
 <!-- -   🤔 **Looking for help with:** dotNET Microservices. -->
 
