@@ -4,7 +4,7 @@
 
 My name is Essilfie. I'm a Software Engineering Student currently pursuing a backend major at AltSchool Africa. I'm interested in Fintech and projects on assitive technology.
 
-Other than Tech, I'm passionate about cooking, design, entrepreneuship, and mental health awareness.
+<!-- Other than Tech, I'm passionate about cooking, design, entrepreneuship, and mental health awareness.
 
 
 <!-- - 🔭 **Currently working on:** ... -->
@@ -14,7 +14,7 @@ Other than Tech, I'm passionate about cooking, design, entrepreneuship, and ment
 -   👯 **Looking to volunteer on:** Projects focused on Assitive Technologies
 -   💬 **Ask me anything about:** Greek Mythology
 -   ⚡ **My Personality Type:** [ENFJ-A](https://www.16personalities.com/enfj-personality) :sunglasses:
-
+ -->
 
 <!-- -   🌱 **Currently learning:** JavaScript -->
 <!-- -   📚 **Currently reading:** Start with Why _Simon Sinek_, Eloquent JavaScript _Marjin Haverbeke_ -->
