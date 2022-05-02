@@ -6,13 +6,6 @@ My name is Essilfie. I'm a Software Engineering Student currently pursuing a bac
 
 Other than Tech, I'm passionate about cooking, design, entrepreneuship, and mental health awareness.
 
-### Tech Stack
-
-```json
-{
-    "Language": ["C"]
-}
-```
 
 <!-- - 🔭 **Currently working on:** ... -->
 
@@ -28,11 +21,15 @@ Other than Tech, I'm passionate about cooking, design, entrepreneuship, and ment
 <!-- -   🧪 **Experimenting with:** Flutter  -->
 <!-- -   🤔 **Looking for help with:** dotNET Microservices. -->
 
-<!-- {
+<!-- ### Tech Stack
+
+```json
+{
     "Language": ["Javascript", "Python", "C#"],
     "Frontend": ["React", "Typescript"]
     "Backend": ["Node.js", "Django", "dotNET", "FastAPI"],
     "Database": ["PostgresSQL", "MongoDB"]
-} -->
+}
+``` -->
 
 ## :wave:
