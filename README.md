@@ -5,7 +5,7 @@
 My name is Essilfie. I'm a Software Engineering Student currently pursuing a backend major at AltSchool Africa. I'm interested in Fintech and projects on assitive technology. -->
 
 <!-- Other than Tech, I'm passionate about cooking, design, entrepreneuship, and mental health awareness.
-x
+
 
 <!-- - 🔭 **Currently working on:** ... -->
 
